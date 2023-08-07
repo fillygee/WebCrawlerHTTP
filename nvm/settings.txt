@@ -1,0 +1,4 @@
+root: "C:\Users\Owner\freecodecamp\fcc-learn-http-assets\webcrawler\nvm" 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
